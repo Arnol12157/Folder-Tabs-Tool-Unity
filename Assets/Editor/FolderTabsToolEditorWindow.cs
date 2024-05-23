@@ -17,10 +17,10 @@ public class FolderTabsToolEditorWindow : EditorWindow
     private List<string> favorites = new List<string>();
     private string selectedPath = null; // Store the selected path for preview
 
-    [MenuItem("Tools/Custom Project Window")]
+    [MenuItem("TG Utils/FolderTabs Tool")]
     public static void ShowWindow()
     {
-        FolderTabsToolEditorWindow window = GetWindow<FolderTabsToolEditorWindow>("Custom Project");
+        FolderTabsToolEditorWindow window = GetWindow<FolderTabsToolEditorWindow>("FolderTabs Tool");
         window.Show();
     }
 
