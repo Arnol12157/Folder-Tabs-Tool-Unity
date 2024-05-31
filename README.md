@@ -52,3 +52,6 @@ or
 - ![image](https://github.com/Arnol12157/TGUtils.FolderTabsTool/assets/13397644/393a354a-44d9-4aad-abbb-0df110b67e8a)
 - Now you have a quick list of your favorite assets to access them quickly
   ![image](https://github.com/Arnol12157/TGUtils.FolderTabsTool/assets/13397644/93ebc5b9-3e8b-4b9f-a309-33e96f20df71)
+
+## Contact
+[My personal website](https://arnol12157.github.io/)
