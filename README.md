@@ -2,6 +2,8 @@
 
 FolderTabs is a Unity Editor extension that allows you to convert folders into tabs within the Unity Editor, providing a convenient way to organize and access your project assets.
 
+https://github.com/Arnol12157/Folder-Tabs-Tool-Unity/assets/13397644/f1105634-433b-4d68-95f8-aec0e30e9a6c
+
 ## Features
 
 - **Convert Folders to Tabs:** Easily convert folders into tabs for quick access.
